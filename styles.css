@@ -1,0 +1,16 @@
+
+img {
+  width: 100%;
+}
+
+.container {
+  background: grey;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin: 0;
+  background-color: black;
+}
+
+p {
+  margin: 0 !important
+}
