@@ -1,3 +1,4 @@
+
 img {
   width: 100%;
 }
@@ -22,5 +23,14 @@ img {
 }
 
 .background {
-  background: grey;
+  background-image: url("stars.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 7px solid white;
+}
+
+#jt {
+  text-align: center;
 }
